@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Rogee Takes a Hike
 
 You can use the [editor on GitHub](https://github.com/sburns/roger-takes-a-hike/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
